@@ -16,16 +16,16 @@ This python project badge can display contact info like your name, e-mail, phone
 
 ---
 
-## Hardware Requirements
+## Requirements
+### Hardware Requirements
 - **Raspberry Pi Zero W** (Tested) - other Pi models may work
 - **Waveshare 2.13" V4** e-ink display (Tested) - other models may work
 - MicroSD card (8GB+ recommended)
 - USB power source
 - *(Optional)* 3D-printed and or laser-cut enclosure
 
----
 
-## Sofware Requirements
+### Sofware Requirements
 - **Python 3.9+**
 - [Pillow](https://pillow.readthedocs.io/en/stable/)- Image processing
 - [Qrcode](https://pypi.org/project/qrcode/)- QR code generation
