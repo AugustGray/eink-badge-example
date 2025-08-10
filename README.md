@@ -4,8 +4,6 @@ A minimalist, always-on digital badge powered by a Raspberry Pi Zero W and a Wav
 
 This python project badge can display contact info like your name, e-mail, phone, and/or show a QR code for quick sharing of links.
 
----
-
 ## Features
 - Display any custom text
 - Generate and display **QR codes** (Link, contact card, etc.)
